@@ -1,5 +1,5 @@
 # Short Lnk
-This is a link shortener app using Meteor and React.
+This is a link shortener using Meteor and React.
 
 ## Authors
 William McDermott
